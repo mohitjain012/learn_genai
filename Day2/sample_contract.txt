@@ -1,0 +1,43 @@
+MASTER SERVICES AGREEMENT
+
+This Master Services Agreement ("Agreement") is entered into as of March 1, 2026
+("Effective Date") by and between:
+
+Brightline Consulting LLC, a Delaware limited liability company with offices at
+55 Market St, San Francisco, CA ("Service Provider"), and
+
+Redwood Health Systems, Inc., with offices at 200 Corporate Dr, Austin, TX
+("Client").
+
+1. TERM. This Agreement shall commence on the Effective Date and continue for
+an initial term of twelve (12) months, automatically renewing for successive
+twelve (12) month periods unless either party provides written notice of
+non-renewal at least sixty (60) days prior to the end of the then-current term.
+
+2. SERVICES. Service Provider shall provide data analytics consulting services
+as described in one or more Statements of Work. Service Provider shall dedicate
+a minimum of two (2) full-time consultants to the engagement.
+
+3. FEES. Client shall pay Service Provider a monthly retainer of $45,000, due
+within fifteen (15) days of invoice receipt. Total estimated contract value for
+the initial term is $540,000.
+
+4. CONFIDENTIALITY. Each party agrees to hold the other's confidential
+information in strict confidence and not disclose it to third parties, for a
+period of five (5) years following termination of this Agreement.
+
+5. TERMINATION. Either party may terminate this Agreement for material breach
+if such breach is not cured within thirty (30) days of written notice. Client
+may terminate for convenience with ninety (90) days' written notice, subject to
+payment of fees for services rendered through the termination date.
+
+6. GOVERNING LAW. This Agreement shall be governed by the laws of the State of
+Delaware, without regard to its conflict of laws principles.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date
+first written above.
+
+/s/ Jane Whitfield                    /s/ Marcus Ide
+Jane Whitfield, CEO                   Marcus Ide, VP Procurement
+Brightline Consulting LLC             Redwood Health Systems, Inc.
+Date: March 1, 2026                   Date: March 1, 2026

@@ -1,0 +1,26 @@
+INVOICE
+
+Acme Industrial Supply Co.
+442 Foundry Lane, Detroit, MI 48201
+Tax ID: 38-1234567
+billing@acmeindustrial.com | (313) 555-0199
+
+Invoice #: INV-20458
+Issue Date: 2026-06-12
+Due Date: 2026-07-12
+
+Bill To:
+Northwind Manufacturing LLC
+900 Assembly Row, Toledo, OH 43604
+Attn: A/P Department
+
+Line Items:
+1. Hydraulic press gaskets (set of 12)     Qty: 4     Unit Price: $85.00     Total: $340.00
+2. Stainless steel fasteners (box of 500)  Qty: 10    Unit Price: $22.50     Total: $225.00
+3. On-site calibration service (4 hrs)     Qty: 1     Unit Price: $600.00    Total: $600.00
+
+Subtotal: $1,165.00
+Tax (6.0%): $69.90
+Total Due: $1,234.90 USD
+
+Payment Terms: Net 30. Late payments accrue 1.5% monthly interest.
