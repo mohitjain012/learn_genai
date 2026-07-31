@@ -1,0 +1,291 @@
+{
+  "raw_results": [
+    {
+      "prompt": "Write a one-sentence description of a sunset.",
+      "temperature": 0.0,
+      "trial": 0,
+      "response": "The sun dipped below the horizon, painting the sky in vibrant hues of orange, pink, and purple, as the day gracefully surrendered to the embrace of twilight."
+    },
+    {
+      "prompt": "Write a one-sentence description of a sunset.",
+      "temperature": 0.0,
+      "trial": 1,
+      "response": "The sun dipped below the horizon, painting the sky in vibrant hues of orange, pink, and purple, as the day gracefully surrendered to the embrace of twilight."
+    },
+    {
+      "prompt": "Write a one-sentence description of a sunset.",
+      "temperature": 0.0,
+      "trial": 2,
+      "response": "The sun dipped below the horizon, painting the sky in vibrant hues of orange, pink, and purple, as the day gracefully surrendered to the embrace of twilight."
+    },
+    {
+      "prompt": "Write a one-sentence description of a sunset.",
+      "temperature": 0.0,
+      "trial": 3,
+      "response": "The sun dipped below the horizon, painting the sky in vibrant hues of orange, pink, and purple, as the day gracefully surrendered to the embrace of twilight."
+    },
+    {
+      "prompt": "Write a one-sentence description of a sunset.",
+      "temperature": 0.0,
+      "trial": 4,
+      "response": "The sun dipped below the horizon, painting the sky in vibrant hues of orange, pink, and purple, as the day gracefully surrendered to the embrace of twilight."
+    },
+    {
+      "prompt": "Write a one-sentence description of a sunset.",
+      "temperature": 0.7,
+      "trial": 0,
+      "response": "As the sun dips below the horizon, the sky transforms into a breathtaking canvas of warm oranges, soft pinks, and deep purples, casting a serene glow over the landscape."
+    },
+    {
+      "prompt": "Write a one-sentence description of a sunset.",
+      "temperature": 0.7,
+      "trial": 1,
+      "response": "The sun dipped below the horizon, painting the sky in vibrant hues of orange and pink, as the day gracefully surrendered to the calm embrace of twilight."
+    },
+    {
+      "prompt": "Write a one-sentence description of a sunset.",
+      "temperature": 0.7,
+      "trial": 2,
+      "response": "The sunset painted the sky in a breathtaking tapestry of warm oranges and deep purples, as the sun dipped below the horizon, casting a golden glow across the tranquil landscape."
+    },
+    {
+      "prompt": "Write a one-sentence description of a sunset.",
+      "temperature": 0.7,
+      "trial": 3,
+      "response": "As the sun dips below the horizon, the sky ignites in a breathtaking tapestry of vibrant oranges, pinks, and purples, casting a warm glow over the tranquil landscape."
+    },
+    {
+      "prompt": "Write a one-sentence description of a sunset.",
+      "temperature": 0.7,
+      "trial": 4,
+      "response": "As the sun dips below the horizon, the sky transforms into a breathtaking canvas of vibrant oranges, pinks, and purples, casting a warm glow over the world."
+    },
+    {
+      "prompt": "Write a one-sentence description of a sunset.",
+      "temperature": 1.5,
+      "trial": 0,
+      "response": "The sun sinks gently into the horizon, painting the sky with hues of gold, orange, and pink, as whispers of twilight embrace the encroaching night."
+    },
+    {
+      "prompt": "Write a one-sentence description of a sunset.",
+      "temperature": 1.5,
+      "trial": 1,
+      "response": "As the day transitions into twilight, the sun sinks below the horizon, spilling vibrant hues of orange, pink, and purple across the sky, creating a breathtaking canvas that bids farewell to the daylight."
+    },
+    {
+      "prompt": "Write a one-sentence description of a sunset.",
+      "temperature": 1.5,
+      "trial": 2,
+      "response": "A vibrant tapestry of fiery oranges, soft purples, and dusky pinks cascades across the horizon as the sun descends, casting a tranquil glow over the landscape."
+    },
+    {
+      "prompt": "Write a one-sentence description of a sunset.",
+      "temperature": 1.5,
+      "trial": 3,
+      "response": "As the sun dips below the horizon, the sky explodes in vibrant shades of orange and pink, casting a warm glow over the land and marking the peaceful transition from day to night."
+    },
+    {
+      "prompt": "Write a one-sentence description of a sunset.",
+      "temperature": 1.5,
+      "trial": 4,
+      "response": "The sunset spilled vibrant hues of orange and pink across the horizon, as the sun dipped leisurely into the embrace of the distant sky, casting a warm glow over the tranquil world below."
+    },
+    {
+      "prompt": "Complete this story opener: 'The old lighthouse keeper had a secret...'",
+      "temperature": 0.0,
+      "trial": 0,
+      "response": "The old lighthouse keeper had a secret, one that had been buried beneath layers of salt and time, much like the shipwrecks that dotted the rocky coastline. Every evening, as the sun dipped below the horizon and painted the sky in hues of orange and purple, he would climb the spiral staircase to the lantern room, his weathered hands gripping the railing with a familiarity that spoke of decades spent in solitude.\n\nBut it wasn\u2019t the light he tended to that held his secret; it was the small, rusted key he kept hidden in a hollowed-out piece of driftwood on the shelf beside the lantern. The key was old, its surface pitted and worn, and it had a peculiar engraving\u2014a compass rose entwined with a serpent."
+    },
+    {
+      "prompt": "Complete this story opener: 'The old lighthouse keeper had a secret...'",
+      "temperature": 0.0,
+      "trial": 1,
+      "response": "The old lighthouse keeper had a secret, one that had been buried beneath layers of salt and sand for decades. Every evening, as the sun dipped below the horizon and painted the sky in hues of orange and purple, he would climb the spiral staircase to the lantern room, his weathered hands gripping the railing with a familiarity that spoke of years spent in solitude. \n\nBut it wasn\u2019t the light he tended to that held his heart; it was the small, hidden compartment beneath the floorboards, where he kept a collection of faded letters and a tarnished locket. Each letter was addressed to a woman named Eliza, written in a hand that trembled with longing and regret. The locket, once gleaming, now bore the marks of"
+    },
+    {
+      "prompt": "Complete this story opener: 'The old lighthouse keeper had a secret...'",
+      "temperature": 0.0,
+      "trial": 2,
+      "response": "The old lighthouse keeper had a secret, one that had been buried beneath layers of salt and time, much like the shipwrecks that dotted the rocky coastline. Every evening, as the sun dipped below the horizon and painted the sky in hues of orange and purple, he would climb the spiral staircase to the lantern room, his weathered hands gripping the railing with a familiarity that spoke of decades spent in solitude.\n\nBut it wasn\u2019t the light he tended to that held his secret; it was the small, rusted key he kept hidden in a hollowed-out piece of driftwood on the windowsill. The key was a remnant of a past he had long tried to forget, a past that whispered to him in the howling winds and crashing"
+    },
+    {
+      "prompt": "Complete this story opener: 'The old lighthouse keeper had a secret...'",
+      "temperature": 0.0,
+      "trial": 3,
+      "response": "The old lighthouse keeper had a secret, one that had been buried beneath layers of salt and time, much like the shipwrecks that dotted the rocky coastline. Every evening, as the sun dipped below the horizon and painted the sky in hues of orange and purple, he would climb the spiral staircase to the lantern room, his weathered hands gripping the railing with a familiarity that spoke of decades spent in solitude.\n\nBut it wasn\u2019t the light he tended to that held his heart; it was the small, hidden compartment beneath the floorboards, where he kept a collection of letters, each one penned in a delicate script that seemed to dance across the pages. They were love letters, written to a woman named Eliza, whose laughter echoed in his memories"
+    },
+    {
+      "prompt": "Complete this story opener: 'The old lighthouse keeper had a secret...'",
+      "temperature": 0.0,
+      "trial": 4,
+      "response": "The old lighthouse keeper had a secret, one that had been buried beneath layers of salt and sand for decades. Every evening, as the sun dipped below the horizon and painted the sky in hues of orange and purple, he would climb the spiral staircase to the lantern room, his weathered hands gripping the railing with a familiarity that spoke of years spent in solitude. \n\nBut it wasn\u2019t the light he tended to that held his heart; it was the small, hidden compartment beneath the floorboards, where he kept a collection of faded letters and a tarnished locket. Each letter was addressed to a woman named Eliza, whose name echoed in his mind like a haunting melody. They were love letters, filled with promises and dreams, written in a"
+    },
+    {
+      "prompt": "Complete this story opener: 'The old lighthouse keeper had a secret...'",
+      "temperature": 0.7,
+      "trial": 0,
+      "response": "The old lighthouse keeper had a secret, one that had been buried beneath layers of driftwood and seaweed for decades. Every evening, as the sun dipped below the horizon and the waves crashed against the rocky shore, he would climb the spiraled staircase to the top of the lighthouse, the rhythmic sound of the lantern\u2019s beam slicing through the twilight. To an outsider, he was merely a guardian of the light, a solitary figure ensuring that wayward ships found their way home. But beneath his weathered exterior lay a mystery that whispered among the crashing waves.\n\nThe townsfolk spoke in hushed tones about the keeper's peculiar habits. They noticed how he would often linger at the edge of the cliff, staring out at the sea as if searching for"
+    },
+    {
+      "prompt": "Complete this story opener: 'The old lighthouse keeper had a secret...'",
+      "temperature": 0.7,
+      "trial": 1,
+      "response": "The old lighthouse keeper had a secret, one that he guarded as fiercely as the light that pierced the stormy nights across the churning sea. For decades, he had tended the towering structure on the rocky cliffs, its beam a steadfast guide for lost ships, but few knew of the hidden chamber beneath the staircase\u2014a room lined with dusty tomes and strange artifacts, remnants of a time long forgotten.\n\nEach evening, as the sun dipped below the horizon, casting fiery hues across the water, he would descend the creaking spiral stairs, his lantern flickering like a heartbeat in the darkness. The townsfolk, weary from their daily toil, would see only his silhouette against the lighthouse\u2019s glow, and they whispered tales of his eccentricity, of the"
+    },
+    {
+      "prompt": "Complete this story opener: 'The old lighthouse keeper had a secret...'",
+      "temperature": 0.7,
+      "trial": 2,
+      "response": "The old lighthouse keeper had a secret, one so deeply buried beneath layers of time and saltwater that even the crashing waves seemed to whisper its name. Every evening, as the sun dipped below the horizon, painting the sky in hues of orange and purple, he would climb the spiraled stairs of the lighthouse, his weathered hands gripping the railing as if it were the only thing keeping him anchored to the world.\n\nThe townsfolk spoke of him in hushed tones, their eyes darting toward the towering structure on the cliff's edge. They called him \"Keeper of the Light,\" but they knew little of the true burden he bore. For years, he had watched over the treacherous waters, guiding ships safely to shore with a beam that"
+    },
+    {
+      "prompt": "Complete this story opener: 'The old lighthouse keeper had a secret...'",
+      "temperature": 0.7,
+      "trial": 3,
+      "response": "The old lighthouse keeper had a secret, one that had been buried beneath layers of salt and sand for decades. Every evening, as the sun dipped beneath the horizon and painted the sky in hues of orange and purple, he would climb the spiraling staircase to the lantern room, the heavy door creaking in protest. The townsfolk knew him as a solitary figure, a man of few words and even fewer visitors, but they were blissfully unaware of the strange rituals that took place in the flickering light of the lighthouse.\n\nFor years, the keeper had tended to the great beacon that guided ships safely through the treacherous waters. But it wasn't just the light that he maintained; it was a connection to the past, a pact made long ago"
+    },
+    {
+      "prompt": "Complete this story opener: 'The old lighthouse keeper had a secret...'",
+      "temperature": 0.7,
+      "trial": 4,
+      "response": "The old lighthouse keeper had a secret, one that was whispered among the townsfolk but never confirmed. They would often see him standing at the edge of the cliff, his silhouette stark against the setting sun, watching the waves crash against the rocks below. Some said he was simply a relic of a bygone era, clinging to his post long after the light had ceased to guide ships. Others believed he was guarding something far more valuable than the lighthouse itself.\n\nEvery Saturday night, after the last of the fishing boats returned to shore, a strange light would flicker from the top of the lighthouse, a ghostly glow that danced across the water like a beacon of hope. But it wasn't the steady beam of the lighthouse's once-vibrant light"
+    },
+    {
+      "prompt": "Complete this story opener: 'The old lighthouse keeper had a secret...'",
+      "temperature": 1.5,
+      "trial": 0,
+      "response": "The old lighthouse keeper had a secret, one that nobody in the small coastal town whispered about anymore, lost to the winds that battered the dilapidated walls of his keeper's cottage. At least, that was what they told themselves. His face, weathered by years of salt and sun, often held the same hardened expression he directed towards incoming storms. Truly, there was no mystery visible to the naked eye\u2014only a man who stuck to his routine like gala\u00ed bejn keep away je grateful survivors of every vessel snarled beneath rolling waves. Yet, where most people saw an eroding structure setgrim there with constantly fading lighthouse light rumingo through ogres sand, scavengers subtly edged pinekey-rotem painted-and many scientifique personnage-w animals \u2018"
+    },
+    {
+      "prompt": "Complete this story opener: 'The old lighthouse keeper had a secret...'",
+      "temperature": 1.5,
+      "trial": 1,
+      "response": "The old lighthouse keeper had a secret, deeply embedded in the creaks and groans of the windswept tower. To the townsfolk of Kelsey Cove, he was a fixture, always found wandering the rocky shores at twilight or out at sea saving wayward ships with the steady blink of his lantern. But certain whispers floated through the picturesque little village\u2014tales that formed the shadow of curiosity, like indifference to intent cast by the warm glow of distant horizons.\n\nIn truth, Caleb Worth at times barely appeared in line with reality, evoking nostalgia tinged with sorrow, acquainted as he was with saveharrows of Poe or writings gilt-edged facing backwards skyward through newborn complete darkness differentiating daydream overlays distically majestic kisses\u2026"
+    },
+    {
+      "prompt": "Complete this story opener: 'The old lighthouse keeper had a secret...'",
+      "temperature": 1.5,
+      "trial": 2,
+      "response": "The old lighthouse keeper had a secret, one that danced along the edge of shadows, whispering among the winds that howled across the lonely cliffs. Every night, long after the last ferry had crossed the churning waters, and the strong beam of light had pierced the fog, he would descend into the tiny cellar beneath the ancient stones of the lighthouse. Few knew of the door submerged in moss and crumbling rock, its iron handle, worn and unearthed centuries ago, gripped tightly in the hands of their timeless guardian.\n\nHis life, woven in solitude, meant little to the world beyond the waves, a flickering dot of light guiding mere fishermen back from labors in the sea. But those who ventured close, caught between the present"
+    },
+    {
+      "prompt": "Complete this story opener: 'The old lighthouse keeper had a secret...'",
+      "temperature": 1.5,
+      "trial": 3,
+      "response": "The old lighthouse keeper had a secret that clasped tightly to his heart like a hidden treasure. For decades, nature\u2019s wild tendrils thrived on the rocky cliffs surrounding Stormwatch Cove, battering the structure during fierce storms that seemed almost angry in their fury. Ensured in that celestial sentinel was a talesman incapable of singing beyond its timeworn stone walls. To the town across the way, the lighthouse left little of intrigue; it amply spoke role of spectator against their daily lives. Carrying out shifts ushering wandering ships through opaque haze proved perpetually mundane.\n\nYet, tenant to its humming lantern above\u2014a cyclopean eye forever issued calls monarchy hadn\u2019t heard; every flicker utilized overt coursers cycling in inevitable time spoke"
+    },
+    {
+      "prompt": "Complete this story opener: 'The old lighthouse keeper had a secret...'",
+      "temperature": 1.5,
+      "trial": 4,
+      "response": "The old lighthouse keeper had a secret, one that lingered like the salt-tanged fog that rolled in from the ocean every evening. Nestled atop a windswept cliff, the lighthouse cast its sweeping beam across the violent waves below, masking the tales that contradicted the sea's serenity. \n\nJonas McKinley had tended to Sparks Lighthouse for over three decades, his connected-crystal encased in mere time-worn timber, celebrating its as much respectability as reflected torment. He took pride in the commanding shriek of ship horns defining ephemeral ports a millennium safely sensed\u2014though sharp solitude weighed heavier on his grizzled chest with each passing hour.\n\nBeyond illuminating the strings ebbing boats efficiently among storied knots racing frenetic tides,"
+    },
+    {
+      "prompt": "List three unusual uses for a paperclip.",
+      "temperature": 0.0,
+      "trial": 0,
+      "response": "Certainly! Here are three unusual uses for a paperclip:\n\n1. **SIM Card Ejector**: A paperclip can be used to eject the SIM card tray from smartphones. Simply straighten one end of the paperclip and gently insert it into the small hole next to the SIM card slot to pop it open.\n\n2. **Zipper Pull**: If the pull tab on a zipper breaks, a paperclip can serve as a temporary replacement. Just bend the paperclip into a small hook shape and attach it to the zipper slider for easy pulling.\n\n3. **Cable Organizer**: You can use a paperclip to keep small cables organized. Simply bend the paperclip into a loop and use it to hold together the ends of charging cables"
+    },
+    {
+      "prompt": "List three unusual uses for a paperclip.",
+      "temperature": 0.0,
+      "trial": 1,
+      "response": "Certainly! Here are three unusual uses for a paperclip:\n\n1. **SIM Card Ejector**: A paperclip can be used to eject the SIM card tray from smartphones. Simply straighten one end of the paperclip and gently insert it into the small hole next to the SIM card slot to pop it open.\n\n2. **Zipper Pull**: If the pull tab on a zipper breaks, a paperclip can serve as a temporary replacement. Just bend the paperclip into a small loop and attach it to the zipper slider for easy gripping.\n\n3. **Cable Organizer**: You can use a paperclip to keep small cables organized. Simply bend the paperclip into a shape that can hold the cables together, preventing them from tangling"
+    },
+    {
+      "prompt": "List three unusual uses for a paperclip.",
+      "temperature": 0.0,
+      "trial": 2,
+      "response": "Certainly! Here are three unusual uses for a paperclip:\n\n1. **SIM Card Ejector**: A paperclip can be used to eject the SIM card tray from smartphones. Simply straighten one end of the paperclip and gently insert it into the small hole next to the SIM card slot to pop it open.\n\n2. **Zipper Pull**: If the pull tab on your zipper breaks, a paperclip can serve as a temporary replacement. Just bend the paperclip into a small hook shape and attach it to the zipper slider for easy pulling.\n\n3. **Cable Organizer**: You can use a paperclip to keep small cables organized. Simply bend the paperclip into a loop and use it to hold together the ends of charging cables"
+    },
+    {
+      "prompt": "List three unusual uses for a paperclip.",
+      "temperature": 0.0,
+      "trial": 3,
+      "response": "Certainly! Here are three unusual uses for a paperclip:\n\n1. **SIM Card Ejector**: A paperclip can be used to eject the SIM card tray from smartphones. Simply straighten one end of the paperclip and gently insert it into the small hole next to the SIM card slot to pop it open.\n\n2. **Zipper Pull**: If the pull tab on a zipper breaks, a paperclip can serve as a temporary replacement. Just bend the paperclip into a small loop and attach it to the zipper slider for easy gripping.\n\n3. **Cable Organizer**: You can use a paperclip to keep small cables organized. Simply bend the paperclip into a shape that can hold the cables together, preventing them from tangling"
+    },
+    {
+      "prompt": "List three unusual uses for a paperclip.",
+      "temperature": 0.0,
+      "trial": 4,
+      "response": "Certainly! Here are three unusual uses for a paperclip:\n\n1. **SIM Card Ejector**: A paperclip can be used to eject the SIM card tray from smartphones. Simply straighten one end of the paperclip and gently insert it into the small hole next to the SIM card slot to pop it open.\n\n2. **Zipper Pull**: If the pull tab on a zipper breaks, a paperclip can serve as a temporary replacement. Just bend the paperclip into a small loop and attach it to the zipper slider for easy gripping.\n\n3. **Cable Organizer**: You can use a paperclip to keep small cables organized. Simply bend the paperclip into a shape that can hold the cables together, preventing them from tangling"
+    },
+    {
+      "prompt": "List three unusual uses for a paperclip.",
+      "temperature": 0.7,
+      "trial": 0,
+      "response": "Here are three unusual uses for a paperclip:\n\n1. **SIM Card Ejector**: If you need to remove the SIM card from your smartphone, a paperclip can serve as a handy tool. Simply straighten one end of the paperclip and gently insert it into the small hole next to the SIM card tray to eject it.\n\n2. **Zipper Pull**: If the pull tab on your zipper breaks, you can use a paperclip as a temporary replacement. Just bend the paperclip into a small hook shape and attach it to the zipper slider to make it easier to pull up or down.\n\n3. **Cable Organizer**: You can use a paperclip to keep your charging cables and earphones untangled. Simply wrap the"
+    },
+    {
+      "prompt": "List three unusual uses for a paperclip.",
+      "temperature": 0.7,
+      "trial": 1,
+      "response": "Certainly! Here are three unusual uses for a paperclip:\n\n1. **SIM Card Ejector**: A paperclip can be used to eject the SIM card tray from smartphones. Simply straighten one end of the paperclip and gently insert it into the small hole next to the SIM card tray to pop it out.\n\n2. **Zipper Pull**: If the pull tab on a zipper breaks, a paperclip can serve as a temporary zipper pull. Just bend it into a small hook shape and attach it to the zipper slider for easy opening and closing.\n\n3. **Cable Organizer**: A paperclip can help keep your cords and cables organized. You can use it to clip and bundle together small cables to prevent them from tangling or"
+    },
+    {
+      "prompt": "List three unusual uses for a paperclip.",
+      "temperature": 0.7,
+      "trial": 2,
+      "response": "Certainly! Here are three unusual uses for a paperclip:\n\n1. **SIM Card Ejector**: If you need to remove the SIM card from a smartphone, a paperclip can serve as a handy tool. Simply straighten one end of the paperclip and gently insert it into the small pinhole next to the SIM card tray to eject it.\n\n2. **Zipper Pull**: If the pull tab on your zipper breaks, you can use a paperclip as a makeshift zipper pull. Just bend the paperclip into a shape that can be easily grasped and attach it to the zipper slider.\n\n3. **Cable Organizer**: Paperclips can help keep your charging cables or earphone wires tangle-free. Simply attach a few"
+    },
+    {
+      "prompt": "List three unusual uses for a paperclip.",
+      "temperature": 0.7,
+      "trial": 3,
+      "response": "Sure! Here are three unusual uses for a paperclip:\n\n1. **SIM Card Ejector**: A paperclip can be used to eject the SIM card tray from smartphones and other devices. Simply straighten one end of the paperclip and insert it into the small hole next to the SIM card tray to pop it out.\n\n2. **Zipper Pull**: If the pull tab on your zipper breaks, a paperclip can serve as a temporary replacement. Just bend the paperclip into a small loop and attach it to the zipper slider, allowing you to easily zip and unzip your clothing or bags.\n\n3. **Cable Organizer**: You can use a paperclip to keep charging cables and earphones neatly organized. Simply twist the paperclip"
+    },
+    {
+      "prompt": "List three unusual uses for a paperclip.",
+      "temperature": 0.7,
+      "trial": 4,
+      "response": "Certainly! Here are three unusual uses for a paperclip:\n\n1. **SIM Card Ejector**: If you need to remove the SIM card from your phone, a paperclip can serve as a handy tool. Simply straighten one end of the paperclip and gently insert it into the small hole next to the SIM card tray to eject it.\n\n2. **Zipper Pull**: If the pull tab on your zipper breaks, a paperclip can be used as a temporary replacement. Just bend the paperclip into a small hook shape and attach it to the zipper slider for easy use.\n\n3. **Cable Organizer**: You can use a paperclip to organize and manage small charging cables or earphone wires. Simply bend the paperclip into"
+    },
+    {
+      "prompt": "List three unusual uses for a paperclip.",
+      "temperature": 1.5,
+      "trial": 0,
+      "response": "Here are three unusual uses for a paperclip:\n\n1. **SIM Card Ejector:** A paperclip can serve as a handy gadget for ejecting the SIM card tray on smartphones and tablets. Just unbend one end to create a pointed tip, and gently insert it into the small hole next to the SIM tray.\n\n2. **Zipper Pull:** If the pull tab on your zipper breaks, you can use a straightened paperclip as a temporary pull. Just attach one end of the paperclip to the zipper slider, and it can function as a makeshift zipper pull.\n\n3. **Bookmarks:** A paperclip can easily double as a bookmark. Slide it over the page you're on, and it will subtly hold your place in your"
+    },
+    {
+      "prompt": "List three unusual uses for a paperclip.",
+      "temperature": 1.5,
+      "trial": 1,
+      "response": "Certainly! Here are three unusual uses for a paperclip:\n\n1. **SIM Card Ejection Tool**: If you need to remove the SIM card from your phone and don\u2019t have the official tool, a paperclip can work perfectly. Just straighten one end and gently insert it into the small hole next to the SIM card tray to eject it.\n\n2. **Zipper Pull Loop**: If the pull tag on your zipper breaks, you can easily fashion a makeshift pull grip using a paperclip. Just bend the paperclip into a hook shape and insert it into the zipper tab hole to give you something to grip while zipping or unzipping.\n\n3. **Earring Back Substitute**: If you lose one of the backs of"
+    },
+    {
+      "prompt": "List three unusual uses for a paperclip.",
+      "temperature": 1.5,
+      "trial": 2,
+      "response": "Here are three unusual uses for a paperclip:\n\n1. **SIM Card Ejector Tool**: A paperclip can be used to eject the SIM card tray from smartphones and other devices. Simply unfold one end and gently insert it into the small hole next to the SIM card tray to pop it out.\n\n2. **Zipper Pull**: If a zipper pull tab breaks, you can thread a paperclip through the hole of the zipper slider to create a temporary pull. This will help you easily open and close the zipper until it can be repaired or replaced.\n\n3. **Cable Organizer**: A paperclip can serve as a simple, quick tool for organizing small cables on your desk. Unwind and straighten out the paperclip, then"
+    },
+    {
+      "prompt": "List three unusual uses for a paperclip.",
+      "temperature": 1.5,
+      "trial": 3,
+      "response": "Certainly! Here are three unusual uses for a paperclip:\n\n1. **SIM Card Ejector**: If you need to remove or insert the SIM card from your smartphone, a paperclip can be a handy tool. Just unbent one end enough to fit into the small hole next to the SIM card tray and press to eject the tray.\n\n2. **Zipper Pull**: If the pull tab on your zipper breaks, a paperclip can be transformed into a makeshift zipper pull. Simply unbend the clip into a small hook shape and attach it where the original pull tab was.\n\n3. **Picture Hanger**: A paperclip can serve as a temporary improvised picture hanger. Bend a paperclip to create a small"
+    },
+    {
+      "prompt": "List three unusual uses for a paperclip.",
+      "temperature": 1.5,
+      "trial": 4,
+      "response": "Certainly! Here are three unusual uses for a paperclip:\n\n1. **SIM Card Ejector:** If you need to access the SIM card tray on your smartphone, a straightened paperclip can serve as a handy tool to eject the tray quickly.\n\n2. **Zipper Pull:** If the pull tab of your zipper breaks, you can thread a paperclip through the hole of the zipper slider to create a makeshift pull that allows you to open and close the zipper easily.\n\n3. **Cable Organizer:** You can connect multiple cables or cords by wrapping them in a hook-shaped paperclip. This method helps keep your cords tidy and prevents tangling.\n\nThese everyday items can serve purposes you might not immediately think of!"
+    }
+  ],
+  "summary": {
+    "0.0": {
+      "avg_consistency": 0.9234,
+      "avg_creativity": 0.393,
+      "avg_response_length_words": 91.2
+    },
+    "0.7": {
+      "avg_consistency": 0.6854,
+      "avg_creativity": 0.5256,
+      "avg_response_length_words": 91.4
+    },
+    "1.5": {
+      "avg_consistency": 0.4363,
+      "avg_creativity": 0.6721,
+      "avg_response_length_words": 88.87
+    }
+  }
+}
